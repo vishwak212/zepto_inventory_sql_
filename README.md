@@ -2,7 +2,7 @@
 ![zeptologo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnFhKjTSSaKZZpfb6MmT7ES-zfodm9IXp5b4llIojFckksUsY1D39mRjg&s)
 
 
-#objective
+# Objective
 The goal is to simulate how actual data analysts in the e-commerce or retail industries work behind the scenes to use SQL to:
 
 ✅ Set up a messy, real-world e-commerce inventory database
@@ -13,12 +13,12 @@ The goal is to simulate how actual data analysts in the e-commerce or retail ind
 
 ✅ Write business-driven SQL queries to derive insights around pricing, inventory, stock availability, revenue and more
 
-#Dataset
+# Dataset
 The dataset was sourced from Kaggle and was originally scraped from Zepto’s official product listings. It mimics what you’d typically encounter in a real-world e-commerce inventory system.
 
 Each row represents a unique SKU (Stock Keeping Unit) for a product. Duplicate product names exist because the same product may appear multiple times in different package sizes, weights, discounts, or categories to improve visibility – exactly how real catalog data looks.
 
-🧾 Columns:
+# Columns:
 
 sku_id: Unique identifier for each product entry (Synthetic Primary Key)
 

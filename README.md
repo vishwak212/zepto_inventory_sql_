@@ -1,5 +1,5 @@
 # Zepto Inventory Data Analysis using SQL
-![zeptologo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnFhKjTSSaKZZpfb6MmT7ES-zfodm9IXp5b4llIojFckksUsY1D39mRjg&s)
+![zeptologo](https://github.com/vishwak212/zepto_inventory_sql_/blob/main/zeptodownload.png?raw=true)
 
 
 # Objective

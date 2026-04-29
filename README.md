@@ -1,1 +1,2 @@
-# zepto_inventory_sql_
+# zepto Inventory data analysis using SQL
+![zeptologo]()
